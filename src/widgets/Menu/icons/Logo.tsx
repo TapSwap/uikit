@@ -32,7 +32,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
       {...props}
     >
       <defs>
-<image id="logo_1_png" x="0" y="0" width="1024" height="1024" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAgAElEQVR4nOy9e7Ct2VEf1muf
+<image id="logo_h_image" x="0" y="0" width="1024" height="1024" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAgAElEQVR4nOy9e7Ct2VEf1muf
 c++de+c9mpFmBHoLZECyXkhikDAYjDCFAcdJmTiYgB3sKoTDIxhSKRcuyvCHH8GOXVSlYgfy
 cpFQlMqYKieWibENiACODKSEEEIyyAj0fs7jPs45u/PH93X379fda19JjO69I31Lmnv2Xo9e
 3b36udb6vi2yla1sZStb2cpWtrKVrWxlK1vZylY+7cu42QhsZStbeXKUO1/+PfcfX7jw4Lnb
@@ -9876,7 +9876,7 @@ Q 159.8 7.15 160.75 7.15 161.6 7.15 162.2 7.6 Z"/>
 
 <g transform="matrix( 0.05328369140625, 0, 0, 0.05328369140625, -0.2,1.85) ">
 <g transform="matrix( 0.4198150634765625, 0, 0, 0.47186279296875, 23,-31) ">
-<use xlinkHref="#logo_1_png"/>
+<use xlinkHref="#logo_h_image"/>
 </g>
 </g>
     </Svg>

@@ -4,7 +4,7 @@ import { SvgProps } from "../types";
 
 const Icon: React.FC<SvgProps> = (props) => {
   return (
-    <svg
+    <Svg
       xmlns="http://www.w3.org/2000/svg"
       id="svg7109"
       version="1.1"
@@ -13,7 +13,7 @@ const Icon: React.FC<SvgProps> = (props) => {
       width="32"
       {...props} >
       <defs>
-<image id="logo_1_png" x="0" y="0" width="1024" height="1024" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAgAElEQVR4nOy9e7Ct2VEf1muf
+<image id="taps_round_image" x="0" y="0" width="1024" height="1024" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAgAElEQVR4nOy9e7Ct2VEf1muf
 c++de+c9mpFmBHoLZECyXkhikDAYjDCFAcdJmTiYgB3sKoTDIxhSKRcuyvCHH8GOXVSlYgfy
 cpFQlMqYKieWibENiACODKSEEEIyyAj0fs7jPs45u/PH93X379fda19JjO69I31Lmnv2Xo9e
 3b36udb6vi2yla1sZStb2cpWtrKVrWxlK1vZylY+7cu42QhsZStbeXKUO1/+PfcfX7jw4Lnb
@@ -9775,9 +9775,9 @@ xuZsu7n6pJydXNkerK6MK08+fPrEZz+px8ePnX725OpDv/ujX4ip25d92ZcXSfn/AYXW2hiD
 x/SiAAAAAElFTkSuQmCC"/>
 
 <g id="Layer0_0_FILL">
-<path fill="#64C6EB" stroke="none" d="
-M 309.25 54.6
-Q 256.7 2.05 182.05 2.05 107.35 2.05 54.6 54.6 2.05 107.35 2.05 182.05 2.05 256.7 54.6 309.25 107.35 362.05 182.05 362.05 256.7 362.05 309.25 309.25 362.05 256.7 362.05 182.05 362.05 107.35 309.25 54.6 Z"/>
+<path fill="#CCCCCC" stroke="none" d="
+M 77.1 14.85
+Q 64.25 2 46 2 27.75 2 14.85 14.85 2 27.75 2 46 2 64.25 14.85 77.1 27.75 90 46 90 64.25 90 77.1 77.1 90 64.25 90 46 90 27.75 77.1 14.85 Z"/>
 </g>
 </defs>
 
@@ -9785,12 +9785,12 @@ Q 256.7 2.05 182.05 2.05 107.35 2.05 54.6 54.6 2.05 107.35 2.05 182.05 2.05 256.
 <use xlinkHref="#Layer0_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.55255126953125, 0, 0, 0.55255126953125, 51.95,66.2) ">
+<g transform="matrix( 0.131805419921875, 0, 0, 0.131805419921875, 14.15,18.2) ">
 <g transform="matrix( 0.4198150634765625, 0, 0, 0.47186279296875, 23,-31) ">
-<use xlinkHref="#logo_1_png"/>
+<use xlinkHref="#taps_round_image"/>
 </g>
 </g>
-    </svg>
+    </Svg>
   );
 };
 
