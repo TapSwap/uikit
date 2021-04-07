@@ -26,7 +26,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
       xmlns="http://www.w3.org/2000/svg"
       id="svg6532"
       version="1.1"
-      viewBox="0 0 58.208332 13.229167"
+      viewBox="0 0 170 26"
       height="50"
       width="220"
       {...props}

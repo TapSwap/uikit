@@ -8,7 +8,7 @@ const Icon: React.FC<SvgProps> = (props) => {
       xmlns="http://www.w3.org/2000/svg"
       id="svg7109"
       version="1.1"
-      viewBox="0 0 8.4666665 8.4666669"
+      viewBox="0 0 362 362"
       height="32"
       width="32"
       {...props} >
