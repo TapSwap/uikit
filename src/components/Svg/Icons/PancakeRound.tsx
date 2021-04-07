@@ -9774,7 +9774,7 @@ RzeIbNLiVJ23p87DSksrMLZgmUnWMcZ2nOn66NaD44t3bMdYFPMMd7XS1XY7tptrj989xrg2
 xuZsu7n6pJydXNkerK6MK08+fPrEZz+px8ePnX725OpDv/ujX4ip25d92ZcXSfn/AYXW2hiD
 x/SiAAAAAElFTkSuQmCC"/>
 
-<g id="Layer0_0_FILL">
+<g id="Layer_taps_round_image">
 <path fill="#CCCCCC" stroke="none" d="
 M 77.1 14.85
 Q 64.25 2 46 2 27.75 2 14.85 14.85 2 27.75 2 46 2 64.25 14.85 77.1 27.75 90 46 90 64.25 90 77.1 77.1 90 64.25 90 46 90 27.75 77.1 14.85 Z"/>
@@ -9782,7 +9782,7 @@ Q 64.25 2 46 2 27.75 2 14.85 14.85 2 27.75 2 46 2 64.25 14.85 77.1 27.75 90 46 9
 </defs>
 
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlinkHref="#Layer0_0_FILL"/>
+<use xlinkHref="#Layer_taps_round_image"/>
 </g>
 
 <g transform="matrix( 0.131805419921875, 0, 0, 0.131805419921875, 14.15,18.2) ">
