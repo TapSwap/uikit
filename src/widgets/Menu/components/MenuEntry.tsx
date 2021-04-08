@@ -53,6 +53,10 @@ const MenuEntry = styled.div<Props>`
   &:hover {
     background-color: ${({ theme }) => theme.colors.tertiary};
     color: ${({ theme }) => theme.colors.textSubtleHover};
+
+    svg {
+      fill: ${({ theme }) => theme.colors.textSubtleHover};
+    }
   }
 
   // Safari fix
