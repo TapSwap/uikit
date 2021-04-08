@@ -3000,10 +3000,11 @@ var templateObject_1$N;
 
 var baseColors = {
     failure: "#e02f58",
-    primary: "#ffffff",
+    primary: "#CE14D6",
     primaryBright: "#dd831c",
     primaryDark: "#c25e00",
     secondary: "#452A7A",
+    secondaryDark: "#9A6AFF",
     success: "#dace31",
     warning: "#e68327",
 };
