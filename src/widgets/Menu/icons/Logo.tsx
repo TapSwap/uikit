@@ -9794,7 +9794,7 @@ xuZsu7n6pJydXNkerK6MK08+fPrEZz+px8ePnX725OpDv/ujX4ip25d92ZcXSfn/AYXW2hiD
 x/SiAAAAAElFTkSuQmCC"/>
 
 <g id="Layer_logo_h_image">
-<path fill="#CE14D6" stroke="none" d="
+<path fill="#0E84FE" stroke="none" d="
 M 49.3 5.7
 Q 48.35 4.2 47.3 4.2 47 4.2 46.65 4.3 45.75 4.55 44.65 4.55
 L 38 4.55

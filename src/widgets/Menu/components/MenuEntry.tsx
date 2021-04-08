@@ -22,10 +22,6 @@ const LinkLabel = styled.div<{ isPushed: boolean }>`
   color: ${({ isPushed, theme }) => (isPushed ? theme.colors.textSubtle : "transparent")};
   transition: color 0.4s;
   flex-grow: 1;
-
-  &:hover {
-    color: ${({ theme }) => theme.colors.textSubtleHover};
-  }
 `;
 
 const MenuEntry = styled.div<Props>`
@@ -52,11 +48,6 @@ const MenuEntry = styled.div<Props>`
 
   &:hover {
     background-color: ${({ theme }) => theme.colors.tertiary};
-    color: ${({ theme }) => theme.colors.textSubtleHover};
-
-    svg {
-      fill: ${({ theme }) => theme.colors.textSubtleHover};
-    }
   }
 
   // Safari fix

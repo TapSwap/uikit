@@ -30,7 +30,6 @@ export declare type Colors = {
     primaryBright: string;
     primaryDark: string;
     secondary: string;
-    secondaryDark: string;
     tertiary: string;
     success: string;
     failure: string;
@@ -44,7 +43,6 @@ export declare type Colors = {
     text: string;
     textDisabled: string;
     textSubtle: string;
-    textSubtleHover: string;
     borderColor: string;
     card: string;
     nav: string;

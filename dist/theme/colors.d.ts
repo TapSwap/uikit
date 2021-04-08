@@ -5,10 +5,8 @@ export declare const baseColors: {
     primaryBright: string;
     primaryDark: string;
     secondary: string;
-    secondaryDark: string;
     success: string;
     warning: string;
-    textSubtleHover: string;
 };
 export declare const brandColors: {
     binance: string;
