@@ -54,6 +54,6 @@ export const darkColors: Colors = {
   card: "#121827", //
   nav: "#121827", //
   gradients: {
-    bubblegum: "linear-gradient(139.73deg, #0B101B 0%, #0B101B 100%)", //
+    bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)", //
   },
 };

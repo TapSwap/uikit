@@ -3014,7 +3014,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { ba
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#ffe500", background: "#1F2B46", backgroundDisabled: "#424037", contrast: "#FFFFFF", invertedContrast: "#262513", input: "#483F5A", inputSecondary: "#8d8857", primaryDark: "#8f8104", tertiary: "#28444A", text: "#fcfae2", textDisabled: "#717161", textSubtle: "#d8ca06", borderColor: "#61634b", card: "#121827", nav: "#121827", gradients: {
-        bubblegum: "linear-gradient(139.73deg, #0B101B 0%, #0B101B 100%)",
+        bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
 var light = {
