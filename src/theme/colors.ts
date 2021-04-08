@@ -5,10 +5,11 @@ export const baseColors = {
   primary: "#CE14D6", //
   primaryBright: "#dd831c",
   primaryDark: "#c25e00",
-  secondary: "#452A7A", //
+  secondary: "#CE14D6", //
   secondaryDark: "#9A6AFF", //
   success: "#dace31",
   warning: "#e68327",
+  textSubtleHover: "#FFFFFF", //
 };
 
 export const brandColors = {
@@ -27,7 +28,7 @@ export const lightColors: Colors = {
   tertiary: "#CE14D6", //
   text: "#452A7A", //
   textDisabled: "#BDC2C4", //
-  textSubtle: "#CE14D6", //
+  textSubtle: "#CE14D6", //  
   borderColor: "#E9EAEB",
   card: "#FFFFFF", //
   nav: "#ffffff", //
@@ -50,7 +51,7 @@ export const darkColors: Colors = {
   tertiary: "#CE14D6", //
   text: "#EAE2FC", //
   textDisabled: "#666171", //
-  textSubtle: "#CE14D6", //
+  textSubtle: "#f518ff", //
   borderColor: "#61634b",
   card: "#27262c", //
   nav: "#27262c", //

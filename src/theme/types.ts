@@ -50,6 +50,7 @@ export type Colors = {
   text: string;
   textDisabled: string;
   textSubtle: string;
+  textSubtleHover: string;
   borderColor: string;
   card: string;
   nav: string;
