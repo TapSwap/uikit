@@ -24,12 +24,12 @@ export const lightColors: Colors = {
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#965c13",
+  text: "#CE14D6", //
   textDisabled: "#BDC2C4",
   textSubtle: "#d88e07",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
-  nav: "#f9fdf9",
+  nav: "#CE14D6", //
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
   },
