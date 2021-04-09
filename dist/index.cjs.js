@@ -2266,7 +2266,7 @@ var links = [
     {
         label: "Certik Audit (In-Progress)",
         icon: "ShieldIcon",
-        href: "https://twitter.com/TapSwap/status/1367218225310818308",
+        href: "https://twitter.com/tapswapdex/status/1367218225310818308",
         target: "_blank",
     },
     {
@@ -2354,7 +2354,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://tapswap.medium.com/",
+                href: "https://tapswapmoneydex.medium.com/",
             },
         ],
     },
@@ -2377,7 +2377,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/TapSwap",
+        href: "https://twitter.com/tapswapdex",
     },
 ];
 var MENU_HEIGHT = 64;
