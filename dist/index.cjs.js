@@ -2345,7 +2345,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/TapSwap/",
+                href: "https://github.com/tapswapmoney/Tapswap/",
                 target: '_blank',
             },
             {
